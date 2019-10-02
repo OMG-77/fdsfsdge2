@@ -1,0 +1,6 @@
+﻿token=NjI4OTY2OTk5NDk3OTAwMDMy.XZS57g.5u60OsnRiwK-gb82_7FoxgANJHE
+owner= 571091956923498507
+prefix= 1
+game= Hi
+stayinchannel=true 
+songinstatus=false 
